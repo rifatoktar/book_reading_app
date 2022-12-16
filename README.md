@@ -1,5 +1,12 @@
 # ybl
 
+Book Reading UI Design with Flutter and Figma
+
+You can observe to predesign process in Figma
+
+![Ekran Alıntısı](https://user-images.githubusercontent.com/105917287/208173586-b5b652f4-3dcf-4c8b-a362-586b4a0808d2.PNG)
+
+
 A new Flutter project.
 
 ## Getting Started
