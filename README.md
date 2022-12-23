@@ -6,7 +6,6 @@ You can observe to predesign process in Figma
 
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/105917287/208173586-b5b652f4-3dcf-4c8b-a362-586b4a0808d2.PNG)
 
-
 A new Flutter project.
 
 ## Getting Started
@@ -21,6 +20,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Regarding using components in this flutter project, you can read more detail.
 
 # 💫 About Me:
 I'm currently working on enhance myself. I'm looking to collaborate on more flutter apps development. I'm looking for help from who has a mentor enhancing myself about flutter apps development. I'm currently learning UI/UX designing and developing with HTML5, CSS3, JS, Flutter and Bootstrap. Ask me about Flutter Front-End development and UI designing through Figma and Adobe XD. fun fact is Flutter, HTML, CSS and JS have many package. Although, you gonna use only a couple of packages throughout Flutter app developing. 
